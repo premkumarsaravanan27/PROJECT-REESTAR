@@ -1,0 +1,165 @@
+ * {
+     padding: 0;
+     margin: 0;
+ }
+
+ body {
+     font-family: "Young Serif", serif;
+     font-weight: lighter;
+     font-style: normal;
+ }
+
+ .container {
+     padding: 50px;
+     text-align: center;
+ }
+
+ .section-one {
+     background-color: black;
+     color: aliceblue;
+     margin-bottom: 30px;
+ }
+
+ .section-one__desc {
+     color: gray;
+     padding-bottom: 5px;
+ }
+
+ .section-two {
+     width: 200px;
+     height: 340px;
+     border: solid black;
+     margin: 10px;
+     display: inline-block;
+
+
+ }
+
+ .section-two__img {
+     padding: 0px;
+     width: 200px;
+     height: 210px;
+ }
+
+ .section-two__button {
+     background-color: black;
+     color: white;
+     border: none;
+     padding: 3px;
+     width: 100px;
+     height: 30px;
+
+ }
+
+ button:hover {
+     background-color: orangered;
+     color: black;
+ }
+
+ .section-three {
+     width: 200px;
+     height: 340px;
+     margin: 10px;
+     border: solid black;
+     display: inline-block;
+
+
+ }
+
+ .section-three__img {
+     padding: 0px;
+     width: 200px;
+     height: 210px;
+ }
+
+ .section-three__button {
+     background-color: black;
+     color: white;
+     border: none;
+     padding: 3px;
+     width: 100px;
+     height: 30px;
+ }
+
+ button:hover {
+     background-color: orangered;
+     color: black;
+ }
+
+ .section-four {
+     width: 200px;
+     height: 340px;
+     margin: 10px;
+     border: solid black;
+     display: inline-block;
+
+
+ }
+
+ .section-four__img {
+     padding: 0px;
+     width: 200px;
+     height: 210px;
+ }
+
+ .section-four__button {
+     background-color: black;
+     color: white;
+     border: none;
+     padding: 3px;
+     width: 100px;
+     height: 30px;
+ }
+
+ button:hover {
+     background-color: orangered;
+     color: black;
+ }
+
+ .section-five {
+     width: 200px;
+     height: 340px;
+     margin: 10px;
+     border: solid black;
+     display: inline-block;
+
+
+ }
+
+ .section-five__img {
+     padding: 0px;
+     width: 200px;
+     height: 210px;
+ }
+
+ .section-five__button {
+     background-color: black;
+     color: white;
+     border: none;
+     padding: 3px;
+     width: 100px;
+     height: 30px;
+ }
+
+ button:hover {
+     background-color: orangered;
+     color: black;
+ }
+ .selection-head{ margin-top:  30px;
+    background-color: black;
+    color: aliceblue;
+}
+
+.selection-form{
+    padding-left: 580px;
+    background-color: black;
+    color: gray;
+    padding-bottom: 5px;
+}
+.selection-form__button{ 
+    background-color:yellow;
+     color:black;
+     padding-left: 60px;
+     padding-right: 60px;
+
+}
